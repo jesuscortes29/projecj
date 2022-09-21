@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "mongoose": "^5.5.13",
     "nodemon": "^1.19.1",
-    "vuetify": "^2.0.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "sass": "^1.17.4",
