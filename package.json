@@ -17,9 +17,9 @@
   },
   "devDependencies": {
     "sass": "^1.17.4",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^13.2.0",
     "vue-cli-plugin-vuetify": "^0.6.1",
-    "vuetify-loader": "^1.2.2"
+    "vuetify-loader": "^1.9.2"
   },
   "bugs": {
     "url": "https://github.com/deyes1219/trabajo/issues"
